@@ -2,6 +2,7 @@
 @author=Eep Talstra Centre for Bible and Computer
 @dataset=BHSA
 @datasetName=Biblia Hebraica Stuttgartensia Amstelodamensis
+@description=✅ each word in its consonantal form only and with not disambiguation (BR>, >LHJM)
 @email=shebanq@ancient-data.org
 @encoders=Constantijn Sikkel (QDF), Dirk Roorda (TF), and Oliver Glanz (BOL)
 @valueType=str
