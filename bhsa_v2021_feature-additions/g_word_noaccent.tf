@@ -2,7 +2,7 @@
 @author=Eep Talstra Centre for Bible and Computer
 @dataset=BHSA
 @datasetName=Biblia Hebraica Stuttgartensia Amstelodamensis
-@description=✅ each text-realized word with consonants and vowels but no Masoretic signs (B.@R@>, >:ELOHIJM)
+@description=✅ Each text-realized word with consonants and vowels (transliterated) but no Masoretic signs (B.@R@>, >:ELOHIJM)
 @email=shebanq@ancient-data.org
 @encoders=Constantijn Sikkel (QDF), Ulrik Petersen (MQL), Dirk Roorda (TF), and Oliver Glanz (BOL)
 @valueType=str
